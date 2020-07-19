@@ -6,7 +6,7 @@
   <img align="right" width="420" alt="GIF" src="https://lh3.googleusercontent.com/proxy/sbihcUg5zOKoat1rM3BWhUFJi1nNs0JGVqJacj8tQfQ3crVihDWHD4xb4LtGrPJ4i14hR1rSXLneWWd4ls1Q7k30wojfVURMKgkJw3cu8XNEbJDJKBQ" />
   
 <summary align="left">
-Here are some ideas to get you started:
+Here are some ideas to get you started about me:
 
 - 🔭 I’m currently working on Some Company
 - 🌱 I’m currently learning VueJs and Nextjs
