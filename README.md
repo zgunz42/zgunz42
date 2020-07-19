@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**zgunz42/zgunz42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zgunz42/zgunz42** is a ✨ _special_ ✨ repository because its `README.md` (this file).
 
 
   <img align="right" width="420" alt="GIF" src="https://lh3.googleusercontent.com/proxy/sbihcUg5zOKoat1rM3BWhUFJi1nNs0JGVqJacj8tQfQ3crVihDWHD4xb4LtGrPJ4i14hR1rSXLneWWd4ls1Q7k30wojfVURMKgkJw3cu8XNEbJDJKBQ" />
