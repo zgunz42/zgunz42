@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Profile views](https://gpvc.arturio.dev/zgunz42)
+<br>
 **zgunz42/zgunz42** is a ✨ _special_ ✨ repository because its `README.md` (this file).
 
 
