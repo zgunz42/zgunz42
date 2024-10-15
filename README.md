@@ -27,3 +27,8 @@ Here are some ideas to get you started about me:
  ![Adi's github stats](https://github-readme-stats.vercel.app/api?username=zgunz42)
  
   </details>
+
+### Import My Public PGP
+```
+curl -s https://github.com/zgunz42.gpg | gpg --import
+```
