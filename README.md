@@ -1,7 +1,6 @@
 ### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/zgunz42)
 <br>
-**zgunz42/zgunz42** is a ✨ _special_ ✨ repository because its `README.md` (this file).
+  <img align="right" width="420" alt="GIF" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" />
   
 <summary align="left">
 Here are some ideas to get you started about me:
